@@ -23,4 +23,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: João WOODPECKER/flask-app:latest
+          tags: matalobo/flask-app:latest
